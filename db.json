@@ -1,0 +1,102 @@
+{
+  "genres": [
+    { "id": "1", "slug": "fantasy", "name": "Fantasy" },
+    { "id": "2", "slug": "romance", "name": "Romance" },
+    { "id": "3", "slug": "isekai", "name": "Isekai" },
+    { "id": "4", "slug": "action", "name": "Action" }
+  ],
+  "products": [
+    {
+      "id": "101",
+      "title": "Re:Zero − Starting Life in Another World Vol.1",
+      "author": "Tappei Nagatsuki",
+      "price": 189000,
+      "discountPrice": 159000,
+      "genreId": "3",
+      "stockQuantity": 12,
+      "badge": "new",
+      "coverImageUrl": "https://placehold.co/400x560/337ab7/ffffff?text=Re%3AZero",
+      "description": "Subaru Natsuki bị triệu hồi đến thế giới khác và khám phá sức mạnh \"Return by Death\" — mỗi lần chết anh quay lại một mốc thời gian để thử thay đổi số phận. Tập mở đầu giới thiệu nhân vật, thế giới Lugunica và những thử thách đầu tiên đầy kịch tính."
+    },
+    {
+      "id": "102",
+      "title": "86 −Eighty-Six− Vol.1",
+      "author": "Asato Asato",
+      "price": 175000,
+      "discountPrice": null,
+      "genreId": "4",
+      "stockQuantity": 8,
+      "badge": "bestseller",
+      "coverImageUrl": "https://placehold.co/400x560/2e6da4/ffffff?text=86",
+      "description": "Chiến tranh drone và những người lính bị gọi là \"86\" trong khu vực chiến sự — nơi họ chiến đấu mà không được coi là con người. Shin và đồng đội dưới sự chỉ huy từ xa của Handler Vladilena Milizé."
+    },
+    {
+      "id": "103",
+      "title": "Spice and Wolf Vol.1",
+      "author": "Isuna Hasekura",
+      "price": 165000,
+      "discountPrice": 145000,
+      "genreId": "1",
+      "stockQuantity": 3,
+      "badge": null,
+      "coverImageUrl": "https://placehold.co/400x560/337ab7/ffffff?text=Spice+%26+Wolf",
+      "description": "Nhà buôn Kraft Lawrence gặp Holo, nữ thần sói của mùa màng, trên đường phiêu lưu đầy mưu mẹo thương lượng. Bối cảnh châu Âu cổ điển, tình bạn và những cuộc đàm phán sinh tồn."
+    },
+    {
+      "id": "104",
+      "title": "Toradora! Vol.1",
+      "author": "Yuyuko Takemiya",
+      "price": 155000,
+      "discountPrice": null,
+      "genreId": "2",
+      "stockQuantity": 0,
+      "badge": "bestseller",
+      "coverImageUrl": "https://placehold.co/400x560/5bc0de/ffffff?text=Toradora",
+      "description": "Ryuji và Taiga — hai học sinh trung học với vẻ ngoài đối lập — lập kế hoạch giúp nhau chinh phục crush. Hài hước, ấm áp và những tình cảm dần lộ ra giữa hỗn loạn tuổi teen."
+    },
+    {
+      "id": "105",
+      "title": "Ascendance of a Bookworm Part 1 Vol.1",
+      "author": "Miya Kazuki",
+      "price": 199000,
+      "discountPrice": null,
+      "genreId": "3",
+      "stockQuantity": 20,
+      "badge": "new",
+      "coverImageUrl": "https://placehold.co/400x560/337ab7/ffffff?text=Bookworm",
+      "description": "Motosu Urano — độc giả cuồng sách — tái sinh thành cô bé Myne trong thế giới nơi sách là xa xỉ. Cô quyết tâm làm sách bằng mọi giá, từ giấy thủ công đến thương lượng với thợ in."
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Nguyễn Minh An",
+      "email": "minhan@example.com",
+      "status": "active"
+    },
+    {
+      "id": "u2",
+      "name": "Trần Thu Hà",
+      "email": "thuha@example.com",
+      "status": "active"
+    },
+    {
+      "id": "u3",
+      "name": "Lê Quốc Bảo",
+      "email": "quocbao@example.com",
+      "status": "banned"
+    },
+    {
+      "id": "u4",
+      "name": "Phạm Khánh Ly",
+      "email": "khanhly@example.com",
+      "status": "active"
+    },
+    {
+      "id": "u5",
+      "name": "Hoàng Đức Thịnh",
+      "email": "ducthinh@example.com",
+      "status": "active"
+    }
+  ]
+}
