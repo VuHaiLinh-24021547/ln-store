@@ -37,3 +37,14 @@ export interface User {
   email: string;
   status: UserStatus;
 }
+
+export type OrderStatus = "completed" | "pending";
+
+/** Đơn hàng — mock (dashboard / thống kê) */
+export interface Order {
+  id: string;
+  customerId: string;
+  totalAmount: number;
+  status: OrderStatus;
+  createdAt: string;
+}

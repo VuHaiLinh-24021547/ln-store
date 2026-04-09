@@ -14,36 +14,9 @@ export function Header() {
           LN Store
         </Link>
 
-        <div className="order-3 flex min-w-0 flex-1 basis-full md:order-none md:basis-auto">
-          <div className="relative w-full">
-            <input
-              type="search"
-              placeholder="Tìm light novel, tác giả..."
-              className="w-full rounded-md border border-slate-300 bg-white py-2 pl-3 pr-10 text-sm text-slate-800 outline-none ring-primary/30 transition focus:border-primary focus:ring-2"
-              aria-label="Tìm kiếm"
-            />
-            <span
-              className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-slate-400"
-              aria-hidden
-            >
-              <svg
-                className="h-4 w-4"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
-                />
-              </svg>
-            </span>
-          </div>
-        </div>
+        
 
-        <div className="ml-auto flex shrink-0 items-center gap-3 md:ml-0">
+        <div className="ml-auto flex shrink-0 items-center gap-218 md:ml-0">
           <Link
             to="/cart"
             className="relative flex h-10 w-10 items-center justify-center rounded-md text-slate-700 transition hover:bg-slate-100 hover:text-primary"
