@@ -25,11 +25,7 @@ export function Footer() {
                   Giỏ hàng
                 </Link>
               </li>
-              <li>
-                <Link to="/admin" className="hover:text-primary">
-                  Quản trị
-                </Link>
-              </li>
+              
             </ul>
           </div>
           <div>
