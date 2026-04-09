@@ -15,7 +15,7 @@
       "genreId": "3",
       "stockQuantity": 12,
       "badge": "new",
-      "coverImageUrl": "https://placehold.co/400x560/337ab7/ffffff?text=Re%3AZero",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/91A7z943JxL._UF1000,1000_QL80_.jpg",
       "description": "Subaru Natsuki bị triệu hồi đến thế giới khác và khám phá sức mạnh \"Return by Death\" — mỗi lần chết anh quay lại một mốc thời gian để thử thay đổi số phận. Tập mở đầu giới thiệu nhân vật, thế giới Lugunica và những thử thách đầu tiên đầy kịch tính."
     },
     {
@@ -27,7 +27,7 @@
       "genreId": "4",
       "stockQuantity": 8,
       "badge": "bestseller",
-      "coverImageUrl": "https://placehold.co/400x560/2e6da4/ffffff?text=86",
+      "coverImageUrl": "https://product.hstatic.net/200000287623/product/86-tap-1_bdb2be81d1dc40ee9c060d9a30742242.jpg",
       "description": "Chiến tranh drone và những người lính bị gọi là \"86\" trong khu vực chiến sự — nơi họ chiến đấu mà không được coi là con người. Shin và đồng đội dưới sự chỉ huy từ xa của Handler Vladilena Milizé."
     },
     {
@@ -39,7 +39,7 @@
       "genreId": "1",
       "stockQuantity": 3,
       "badge": null,
-      "coverImageUrl": "https://placehold.co/400x560/337ab7/ffffff?text=Spice+%26+Wolf",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/8189WuIXZ9L._AC_UF1000,1000_QL80_.jpg",
       "description": "Nhà buôn Kraft Lawrence gặp Holo, nữ thần sói của mùa màng, trên đường phiêu lưu đầy mưu mẹo thương lượng. Bối cảnh châu Âu cổ điển, tình bạn và những cuộc đàm phán sinh tồn."
     },
     {
@@ -51,7 +51,7 @@
       "genreId": "2",
       "stockQuantity": 0,
       "badge": "bestseller",
-      "coverImageUrl": "https://placehold.co/400x560/5bc0de/ffffff?text=Toradora",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/91J6OZyFEyL._UF1000,1000_QL80_.jpg",
       "description": "Ryuji và Taiga — hai học sinh trung học với vẻ ngoài đối lập — lập kế hoạch giúp nhau chinh phục crush. Hài hước, ấm áp và những tình cảm dần lộ ra giữa hỗn loạn tuổi teen."
     },
     {
@@ -63,8 +63,92 @@
       "genreId": "3",
       "stockQuantity": 20,
       "badge": "new",
-      "coverImageUrl": "https://placehold.co/400x560/337ab7/ffffff?text=Bookworm",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/911uY02KM+L._UF1000,1000_QL80_.jpg",
       "description": "Motosu Urano — độc giả cuồng sách — tái sinh thành cô bé Myne trong thế giới nơi sách là xa xỉ. Cô quyết tâm làm sách bằng mọi giá, từ giấy thủ công đến thương lượng với thợ in."
+    },
+    {
+      "id": "106",
+      "title": "Sword Art Online: Aincrad Vol.1",
+      "author": "Reki Kawahara",
+      "price": 185000,
+      "discountPrice": 159000,
+      "genreId": "4",
+      "stockQuantity": 15,
+      "badge": "bestseller",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81xrAw9CfkL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Kirito và hàng nghìn người chơi bị mắc kẹt trong MMORPG thực tế ảo — chết trong game là chết ngoài đời. Tập đầu mở ra hành trình chinh phục tầng Aincrad đầy nguy hiểm."
+    },
+    {
+      "id": "107",
+      "title": "Re:Zero − Starting Life in Another World Vol.2",
+      "author": "Tappei Nagatsuki",
+      "price": 189000,
+      "discountPrice": null,
+      "genreId": "3",
+      "stockQuantity": 9,
+      "badge": null,
+      "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/I/81f6kZNIJBL.jpg",
+      "description": "Subaru tiếp tục đối mặt với \"Return by Death\" khi mối quan hệ với Emilia và những bí mật của dinh thự phức tạp hơn — kịch tính và tình cảm dâng cao."
+    },
+    {
+      "id": "108",
+      "title": "Oshi no Ko Vol.1",
+      "author": "Aka Akasaka",
+      "price": 179000,
+      "discountPrice": 149000,
+      "genreId": "2",
+      "stockQuantity": 0,
+      "badge": "new",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81gs7bNAyvL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Bối cảnh làng giải trí Nhật Bản qua góc nhìn đầy twist — sự nghiệp idol, truyền thông và những lựa chọn định đoạt số phận."
+    },
+    {
+      "id": "109",
+      "title": "Classroom of the Elite: Year 1 Vol.1",
+      "author": "Shōgo Kinugasa",
+      "price": 169000,
+      "discountPrice": null,
+      "genreId": "4",
+      "stockQuantity": 11,
+      "badge": null,
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81iuhjMyu6L._UF1000,1000_QL80_.jpg",
+      "description": "Học viện phân tầng nơi điểm số quyết định tất cả — Kiyotaka Ayanokōji và lớp D phải leo lên bằng chiến lược trong môi trường cạnh tranh khốc liệt."
+    },
+    {
+      "id": "110",
+      "title": "Mushoku Tensei: Jobless Reincarnation Vol.1",
+      "author": "Rifujin na Magonote",
+      "price": 195000,
+      "discountPrice": 175000,
+      "genreId": "3",
+      "stockQuantity": 0,
+      "badge": "bestseller",
+      "coverImageUrl": "https://m.media-amazon.com/images/I/81mDZHZbtAL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Một NEET tái sinh thành Rudeus Greyrat và quyết tâm sống hết mình ở thế giới phép thuật — hành trình trưởng thành và phiêu lưu đầy màu sắc."
+    },
+    {
+      "id": "111",
+      "title": "That Time I Got Reincarnated as a Slime Vol.1",
+      "author": "Fuse",
+      "price": 172000,
+      "discountPrice": null,
+      "genreId": "1",
+      "stockQuantity": 22,
+      "badge": null,
+      "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/I/91HjK3oSJwL.jpg",
+      "description": "Satoru Mikami hóa thành slime nhưng với kỹ năng Predator — nuốt chửng và học hỏi mọi thứ để xây dựng một quốc gia của quái vật."
+    },
+    {
+      "id": "112",
+      "title": "Konosuba: God's Blessing on This Wonderful World! Vol.1",
+      "author": "Natsume Akatsuki",
+      "price": 158000,
+      "discountPrice": 138000,
+      "genreId": "1",
+      "stockQuantity": 6,
+      "badge": null,
+      "coverImageUrl": "https://m.media-amazon.com/images/I/91BRicb5VUL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Kazuma chọn Aqua và lập nhóm với Megumin, Darkness — hài hước parody isekai khi mọi kế hoạch đều trở thành thảm họa vui nhộn."
     }
   ],
   "users": [
@@ -97,6 +181,43 @@
       "name": "Hoàng Đức Thịnh",
       "email": "ducthinh@example.com",
       "status": "active"
+    }
+  ],
+  "orders": [
+    {
+      "id": "o1",
+      "customerId": "u1",
+      "totalAmount": 318000,
+      "status": "completed",
+      "createdAt": "2026-03-12T10:30:00.000Z"
+    },
+    {
+      "id": "o2",
+      "customerId": "u2",
+      "totalAmount": 175000,
+      "status": "completed",
+      "createdAt": "2026-03-15T14:22:00.000Z"
+    },
+    {
+      "id": "o3",
+      "customerId": "u4",
+      "totalAmount": 448000,
+      "status": "pending",
+      "createdAt": "2026-04-01T09:15:00.000Z"
+    },
+    {
+      "id": "o4",
+      "customerId": "u5",
+      "totalAmount": 189000,
+      "status": "completed",
+      "createdAt": "2026-04-05T16:45:00.000Z"
+    },
+    {
+      "id": "o5",
+      "customerId": "u1",
+      "totalAmount": 264000,
+      "status": "pending",
+      "createdAt": "2026-04-08T11:00:00.000Z"
     }
   ]
 }
