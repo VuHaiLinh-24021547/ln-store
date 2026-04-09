@@ -1,4 +1,4 @@
-import type { Product, User } from "@/types";
+import type { Order, Product, User } from "@/types";
 
 const BASE = "/api";
 
@@ -53,6 +53,14 @@ export async function getUsers(): Promise<User[]> {
     throw new Error(await parseError(res));
   }
   return res.json() as Promise<User[]>;
+}
+
+export async function getOrders(): Promise<Order[]> {
+  const res = await fetch(`${BASE}/orders`);
+  if (!res.ok) {
+    throw new Error(await parseError(res));
+  }
+  return res.json() as Promise<Order[]>;
 }
 
 export async function updateUser(id: string, body: User): Promise<User> {
